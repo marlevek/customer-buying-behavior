@@ -22,7 +22,7 @@ Colunas:
 * flight_duration:	Estimated duration of the flight	
 * booking_complete:	Booking completion status (0 = incomplete, 1 = complete)	
 
-Tarefa: prever o comportamento de compra do cliente
+Tarefa: prever o comportamento de compra do cliente, se ele vai completar a reserva da passagem
 
 Algoritmos usados:
 * Random Forest
