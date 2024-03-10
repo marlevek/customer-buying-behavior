@@ -7,8 +7,8 @@ Este conjunto de dados inclui informações essenciais relacionadas com as reser
 O conjunto de dados foi projetado para ajudar a entender as preferências dos passageiros, otimizar os serviços e melhorar a satisfação geral.
 
 Colunas:
-num_passengers: Number of passengers per booking	
-sales_channel	Source of ticket purchase (e.g., online, agency)	
+* num_passengers: Number of passengers per booking	
+* sales_channel	Source of ticket purchase (e.g., online, agency)	
 trip_type	Type of trip (one-way, round trip, multi-city)	
 purchase_lead	Lead time between ticket purchase and departure	
 length_of_stay	Duration of the entire trip	
