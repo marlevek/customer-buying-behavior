@@ -23,3 +23,9 @@ Colunas:
 * booking_complete:	Booking completion status (0 = incomplete, 1 = complete)	
 
 Tarefa: prever o comportamento de compra do cliente
+
+Algoritmos usados:
+* Random Forest
+* SVM
+* Gradient Boosting
+* XGBOOST
