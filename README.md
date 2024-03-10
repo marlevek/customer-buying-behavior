@@ -26,6 +26,5 @@ Tarefa: prever o comportamento de compra do cliente, se ele vai completar a rese
 
 Algoritmos usados:
 * Random Forest
-* SVM
-* Gradient Boosting
 * XGBOOST
+* CATBOOST
